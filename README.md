@@ -99,7 +99,7 @@ Arunava</a></h1>
  
 
 
-<h3 align="center">Github Stats&#127475</h3>  
+<h3 align="center">Github Stats</h3>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AwesomeArunava&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
