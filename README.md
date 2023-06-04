@@ -29,7 +29,7 @@ Arunava</a></h1>
 <br/>  
 
 
-<h1 align="center">## My Skill Set</h1> 
+<h3 align="center">## My Skill Set</h3> 
 <div align="center">
 <table><tr><td valign="top" width="33%" align="center">
 
