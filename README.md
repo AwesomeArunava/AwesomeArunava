@@ -96,6 +96,13 @@ Arunava</a></h1>
 
 </p>
 <br/>
+ 
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AwesomeArunava&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 <p align="center"> 
   <h3 align="center">Visitor count</h3><br>
   <p align="center">
