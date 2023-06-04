@@ -29,7 +29,8 @@ Arunava</a></h1>
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 
+<div align="center">
 <table><tr><td valign="top" width="33%" align="center">
 
 
@@ -68,7 +69,7 @@ Arunava</a></h1>
 </div>
 
 </td></tr></table>  
-
+</div>
 <br/>  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px; align=center;">Connect with me 🤝 </h3>
 
