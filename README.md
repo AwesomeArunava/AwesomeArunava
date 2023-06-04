@@ -10,15 +10,15 @@ Arunava</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Agrud Technology India Pvt Ltd</a>
+- 🔭 I’m currently working in **<a href="https://www.agrudtech.com/" target="blank">Agrud Technology India Pvt Ltd</a>**
 
-- 🌱 I’m currently Working on Web App
+- 🌱 I’m currently Working on **<a href="https://github.com/AwesomeArunava/EduHelp.git" target="blank">Agrud Technology India Pvt Ltd</a>**
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+<!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
 - 💬 Ask me about **Reactjs & React-Native**
 
@@ -50,7 +50,7 @@ Arunava</a></h1>
       </div>
 
 </p>
-
+<!-- 
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -62,6 +62,5 @@ Arunava</a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
-Last Edited on: 08/08/2022
+Last Edited on: 08/08/2022 -->
