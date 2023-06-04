@@ -95,7 +95,7 @@ Arunava</a></h1>
       </div>
 
 </p>
-
+<br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AwesomeArunava/count.svg" />
