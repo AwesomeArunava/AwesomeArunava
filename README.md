@@ -12,7 +12,7 @@ Arunava</a></h1>
 
 - 🔭 I’m currently working in **<a href="https://www.agrudtech.com/" target="blank">Agrud Technology India Pvt Ltd</a>**
 
-- 🌱 I’m currently Working on **<a href="https://github.com/AwesomeArunava/EduHelp.git" target="blank">Agrud Technology India Pvt Ltd</a>**
+- 🌱 I’m currently Working on **<a href="https://github.com/AwesomeArunava/EduHelp.git" target="blank">EduHelp</a>**
 
 - 🤝 I’m available for freelancing.
 
@@ -20,7 +20,7 @@ Arunava</a></h1>
 
 <!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **arunavadebnath23@gmail.com**
 
