@@ -50,6 +50,12 @@ Arunava</a></h1>
       </div>
 
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AwesomeArunava/count.svg" />
+</p>
+
 <!-- 
 ### Blogs posts
 
