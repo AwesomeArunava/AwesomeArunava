@@ -10,9 +10,9 @@ Arunava</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in **<a href="https://www.agrudtech.com/" target="blank">Agrud Technology India Pvt Ltd</a>**
+- 🔭 I’m currently pursuingg MCA from **<a href="https://www.vidyasagar.ac.in/Default.aspx" target="blank">Vidyasagar University</a>**
 
-- 🌱 I’m currently Working on **<a href="https://github.com/AwesomeArunava/EduHelp.git" target="blank">EduHelp</a>**
+- 🌱 I’m currently Working on **<a href="" target="blank">Project</a>**
 
 - 🤝 I’m available for freelancing.
 
