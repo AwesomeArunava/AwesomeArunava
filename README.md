@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Arunava</a></h1>
-<h3 align="center">A passionate Frontend developer from Kolkata India &#127470;&#127475</h3>
+<h3 align="center">A passionate  Software Engineer from Kolkata India &#127470;&#127475</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AwesomeArunava&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
 
